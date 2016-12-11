@@ -10,6 +10,7 @@ import org.springframework.context.annotation.Configuration;
 @EnableAutoConfiguration
 public class Application {
     public static void main(String[] args) {
+    	// 1
     	// some comment
     	// some other comment
         SpringApplication.run(Application.class, args);
