@@ -12,6 +12,7 @@ public class Application {
     public static void main(String[] args) {
     	// 1
     	// 2
+    	// 3
     	// some comment
     	// some other comment
         SpringApplication.run(Application.class, args);
