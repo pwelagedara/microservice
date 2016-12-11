@@ -11,6 +11,7 @@ import org.springframework.context.annotation.Configuration;
 public class Application {
     public static void main(String[] args) {
     	// 1
+    	// 2
     	// some comment
     	// some other comment
         SpringApplication.run(Application.class, args);
