@@ -13,6 +13,7 @@ public class Application {
     	// 1
     	// 2
     	// 3
+    	// 4
     	// some comment
     	// some other comment
         SpringApplication.run(Application.class, args);
